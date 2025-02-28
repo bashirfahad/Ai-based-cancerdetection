@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "961268279103",
+    "project_id": "blumo-b0d0a",
+    "storage_bucket": "blumo-b0d0a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961268279103:android:d8bab49cef6e64e698d58a",
+        "android_client_info": {
+          "package_name": "com.blumo.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961268279103-krfp05sov1jo3adm4ljvfse31foumht5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blumo.app",
+            "certificate_hash": "679a59b4ef32ccd310ed3e3a6bfcbdbf031bcc8f"
+          }
+        },
+        {
+          "client_id": "961268279103-2ec8va2kt9ogs43cahq68373dlk2vfap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ0zFITh2r3-HEFvpUCeLaSzn_3UJls2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961268279103-2ec8va2kt9ogs43cahq68373dlk2vfap.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "961268279103-mibhset88po2rdf6m80emtn3spkmg2pb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.blumoApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961268279103:android:83236fdac24a855098d58a",
+        "android_client_info": {
+          "package_name": "com.example.cancerdetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961268279103-2ec8va2kt9ogs43cahq68373dlk2vfap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ0zFITh2r3-HEFvpUCeLaSzn_3UJls2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961268279103-2ec8va2kt9ogs43cahq68373dlk2vfap.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "961268279103-mibhset88po2rdf6m80emtn3spkmg2pb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.blumoApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961268279103:android:065ed5d05ae8827698d58a",
+        "android_client_info": {
+          "package_name": "com.example.transparentgold"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961268279103-2ec8va2kt9ogs43cahq68373dlk2vfap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ0zFITh2r3-HEFvpUCeLaSzn_3UJls2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961268279103-2ec8va2kt9ogs43cahq68373dlk2vfap.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "961268279103-mibhset88po2rdf6m80emtn3spkmg2pb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.blumoApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
