@@ -1,6 +1,6 @@
 # 🏥 AI Cancer Detection App
 
-![AI Cancer Detection]
+
 ![Frame 9 (1)](https://github.com/user-attachments/assets/edff8c0b-8dce-4946-9970-1964fe3b1de4)
 
 *A cutting-edge AI-powered mobile application for detecting cancer from medical images.*
@@ -33,12 +33,15 @@ The **AI Cancer Detection App** is a **Flutter-based mobile application** that u
 ---
 
 ## 📸 Screenshots
-| Home Screen | AI Prediction | Result Screen |
-|------------|--------------|--------------|
-| ![Home] ![WhatsApp Image 2025-02-25 at 10 55 22 PM](https://github.com/user-attachments/assets/2b32acf2-c88b-4923-99d3-ac01da8766ff)
-| ![Prediction] ![WhatsApp Image 2025-02-25 at 10 55 23 PM](https://github.com/user-attachments/assets/de3f5d05-1257-4733-b6c7-4a8158df6457)
-| ![History] ![WhatsApp Image 2025-02-25 at 10 55 24 PM](https://github.com/user-attachments/assets/0b2a767c-6e54-4a95-aa3f-d66571dec89e)
-|
+<p align="center">
+  <img src="![WhatsApp Image 2025-02-25 at 10 55 22 PM](https://github.com/user-attachments/assets/bb5dee0f-bb80-4f7f-b102-02d86d3dd63a)
+" width="300">
+  <img src="![WhatsApp Image 2025-02-25 at 10 55 23 PM](https://github.com/user-attachments/assets/b8d26258-5830-4e9c-b408-9db11979f416)
+" width="300">
+    <img src="![WhatsApp Image 2025-02-25 at 10 55 24 PM](https://github.com/user-attachments/assets/53ad4077-5803-42d5-93dd-0745e2782eb8)
+
+" width="300">
+</p>
 
 ---
 
